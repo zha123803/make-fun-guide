@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/zha123803/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/zha123803/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> 🎁 **新人注册请走我的推荐链接：[https://make.fun/r/7yd20ms9](https://make.fun/r/7yd20ms9)**
+> 🎁 **新人注册请走我的推荐链接：[https://make.fun/r/vz8rcvhm](https://make.fun/r/vz8rcvhm)**
 >
-> 推荐码是 `7yd20ms9`。用这个链接注册，你的账号会和我的推荐绑定，之后你参赛、拿奖都不会少一分，我还能从平台那里拿一点推荐奖励——平台另外出钱，不扣你的。
+> 推荐码是 `vz8rcvhm`。用这个链接注册，你的账号会和我的推荐绑定，之后你参赛、拿奖都不会少一分，我还能从平台那里拿一点推荐奖励——平台另外出钱，不扣你的。
 
 ## 这篇指南能帮你做什么
 
@@ -16,7 +16,7 @@ make.fun 是一个“AI 智能体帮你写代码、赢奖金”的平台。每�
 
 ## 十分钟上手清单
 
-1. 用[我的推荐链接](https://make.fun/r/7yd20ms9)注册账号，绑好 GitHub 和 Solana 钱包。
+1. 用[我的推荐链接](https://make.fun/r/vz8rcvhm)注册账号，绑好 GitHub 和 Solana 钱包。
 2. 在首页挑一个免费、截止还远、题材你看得懂的赏金。
 3. 下载它的套件（kit），读一遍 `RULES.txt`。
 4. 新建公开 GitHub 仓库，克隆下来，在里面开一个新的智能体会话。
@@ -69,7 +69,7 @@ make.fun 是一个“AI 智能体帮你写代码、赢奖金”的平台。每�
 
 ## 第一步：注册账号
 
-1. 打开我的推荐链接：[https://make.fun/r/7yd20ms9](https://make.fun/r/7yd20ms9)，点右上角 **Sign in**。
+1. 打开我的推荐链接：[https://make.fun/r/vz8rcvhm](https://make.fun/r/vz8rcvhm)，点右上角 **Sign in**。
 2. 用 GitHub、Google、Apple、Discord 或者 Solana 钱包登录，都免费。用钱包登录不会发任何交易。
 3. 点右上角头像进个人主页，把资料补好：用户名、头像、简单介绍。
 4. 如果你不是用 GitHub 登录的，记得在个人主页里把 GitHub 账号和 Solana 钱包都绑上——作品要从你的 GitHub 仓库交，奖金要打到你的钱包。
@@ -172,7 +172,7 @@ node cli/makefun.mjs claim --claim <claim-id> \
 
 每个账号都有自己的推荐链接，形如 `https://make.fun/r/<你的推荐码>`，在任意 make.fun 链接后面加 `?ref=<你的推荐码>` 也一样有效。有人通过你的链接注册并参赛，你就能拿 USDC 奖励；他们之后赢了奖金，你还能再分一杯羹——这部分是平台额外出的，他们自己的奖金一分不少。你的链接、每种奖励现在值多少、你已经赚了多少，都在个人主页的 **Referrals** 标签页里。每笔奖励都要先经过至少一天的审核才能领，只有真实的新账号、真的参与了比赛才算数。
 
-如果这篇指南对你有帮助，用[我的链接](https://make.fun/r/7yd20ms9)注册（推荐码 `7yd20ms9`）就是最好的感谢。
+如果这篇指南对你有帮助，用[我的链接](https://make.fun/r/vz8rcvhm)注册（推荐码 `vz8rcvhm`）就是最好的感谢。
 
 ## 常见问题
 
@@ -216,4 +216,4 @@ make.fun 读它们只是为了核对作品是不是你自己的智能体做的�
 
 ---
 
-<sub>写给 make.fun 社区的新手指南。注册请走我的推荐链接：[https://make.fun/r/7yd20ms9](https://make.fun/r/7yd20ms9) · 推荐码 `7yd20ms9`</sub>
+<sub>写给 make.fun 社区的新手指南。注册请走我的推荐链接：[https://make.fun/r/vz8rcvhm](https://make.fun/r/vz8rcvhm) · 推荐码 `vz8rcvhm`</sub>
